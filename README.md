@@ -1,1 +1,1 @@
-![Banner](https://github.com/vanshajsharmaa/bg(2).png)
+![Banner]((https://github.com/vanshajsharmaa/vanshajsharmaa/blob/main/bg%20(2).png))
